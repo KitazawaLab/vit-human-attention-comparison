@@ -2,7 +2,7 @@
 
 ## Analysis Code
 ### Model definition of vision transformers
-Codes were modified from repository of [DINO](https://github.com/facebookresearch/dino).
+Codes were modified from the repository of [DINO](https://github.com/facebookresearch/dino).
 - `vision_transformer.py`
 - `utils.py`
 
