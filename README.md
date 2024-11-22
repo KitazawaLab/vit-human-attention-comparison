@@ -1,6 +1,8 @@
 # Codes of "Emergence of Human-Like Attention in Self-Supervised Vision Transformers: an eye-tracking study"
 
 ## Examples of the gaze patterns of the Vision Transformers
+Five clips (no. 1, 2, 5, 8, 10) were taken from TV programmes for young
+children ‘‘Okaasan to Issho’’ (NHK, Japan Broadcasting Corporation). Four (no. 4, 6, 7, 9) were taken from a film "Always: Sunset on Third Street" (Toho Co., Ltd). Clip no. 3 was taken from a film "A.I.-Artifical Intelligence" (Warner bros.).
 ### DINO ViT (G1; n=24)
 <div><video controls src="https://github.com/user-attachments/assets/bddd4501-adff-4670-ada0-a79f981000a9" muted="false"></video></div>
 
