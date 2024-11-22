@@ -1,5 +1,12 @@
 # Codes of "Emergence of Human-Like Attention in Self-Supervised Vision Transformers: an eye-tracking study"
 
+## Examples of gaze patterns of Vision Transformers
+### DINO ViT (G1; n=24)
+<div><video controls src="https://github.com/user-attachments/assets/bddd4501-adff-4670-ada0-a79f981000a9" muted="false"></video></div>
+
+### SL ViT (Top 5; n=30)
+<div><video controls src="https://github.com/user-attachments/assets/fbed9c38-f73a-46b5-b3bc-0c5c722c428f" muted="false"></video></div>
+
 ## Analysis Code
 ### Model definition of vision transformers
 Codes were modified from the repository of [DINO](https://github.com/facebookresearch/dino).
