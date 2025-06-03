@@ -71,7 +71,9 @@ Codes were modified from the repository of [DINO](https://github.com/facebookres
 - Supervised learning: [DeiT](https://github.com/facebookresearch/deit/)
 
 ## Datasets
-- eye tracking dataset: Nakano et al., 2010, [Costela and Woods 2019](https://osf.io/g64tk/)
+- eye tracking dataset:
+  - [Nakano et al., 2010](https://osf.io/x6f8t/)
+  - [Costela and Woods 2019](https://osf.io/g64tk/)
 - [Animal Parts Dataset](https://www.robots.ox.ac.uk/~vgg/data/animal_parts/)
 
 ## Reference
