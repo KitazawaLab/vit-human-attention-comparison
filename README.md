@@ -77,4 +77,5 @@ Codes were modified from the repository of [DINO](https://github.com/facebookres
 - [Animal Parts Dataset](https://www.robots.ox.ac.uk/~vgg/data/animal_parts/)
 
 ## Reference
-Yamamoto, T., Akahoshi, H., & Kitazawa, S. (2024). Emergence of Human-Like Attention in Self-Supervised Vision Transformers: an eye-tracking study. In arXiv [q-bio.NC]. arXiv. http://arxiv.org/abs/2410.22768
+- Yamamoto, T., Akahoshi, H., & Kitazawa, S. (2025). Emergence of human-like attention and distinct head clusters in self-supervised vision transformers: A comparative eye-tracking study. Neural Networks: The Official Journal of the International Neural Network Society, 107595, 107595.
+- Yamamoto, T., Akahoshi, H., & Kitazawa, S. (2024). Emergence of Human-Like Attention in Self-Supervised Vision Transformers: an eye-tracking study. In arXiv [q-bio.NC]. arXiv. http://arxiv.org/abs/2410.22768
