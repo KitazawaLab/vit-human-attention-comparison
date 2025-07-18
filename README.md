@@ -15,6 +15,16 @@ The model weights and demo can be downloaded from the following OSF link: <https
 The demo extracts features and attention maps corresponding to G1 (foreground center), G2 (entire foreground), and G3 (background) from images.
 For more details, please refer to the OSF page.
 
+### Model training codes
+- Self-supervised learning: [DINO](https://github.com/facebookresearch/dino)
+- Supervised learning: [DeiT](https://github.com/facebookresearch/deit/)
+
+## Datasets
+- eye tracking dataset:
+  - [Nakano et al., 2010](https://osf.io/x6f8t/)
+  - [Costela and Woods 2019](https://osf.io/g64tk/)
+- [Animal Parts Dataset](https://www.robots.ox.ac.uk/~vgg/data/animal_parts/)
+
 ## Analysis codes
 ### Model definition of vision transformers
 Codes were modified from the repository of [DINO](https://github.com/facebookresearch/dino).
@@ -71,16 +81,6 @@ Codes were modified from the repository of [DINO](https://github.com/facebookres
 
 ### Random sampling from Imagenet-1k
 - `random_choice_imagenet.ipynb`: (Sup. Fig. 3)
-
-## Model training codes
-- Self-supervised learning: [DINO](https://github.com/facebookresearch/dino)
-- Supervised learning: [DeiT](https://github.com/facebookresearch/deit/)
-
-## Datasets
-- eye tracking dataset:
-  - [Nakano et al., 2010](https://osf.io/x6f8t/)
-  - [Costela and Woods 2019](https://osf.io/g64tk/)
-- [Animal Parts Dataset](https://www.robots.ox.ac.uk/~vgg/data/animal_parts/)
 
 ## Reference
 - Yamamoto, T., Akahoshi, H., & Kitazawa, S. (2025). **Emergence of human-like attention and distinct head clusters in self-supervised vision transformers**: A comparative eye-tracking study. _Neural Networks_, 107595, 107595.
