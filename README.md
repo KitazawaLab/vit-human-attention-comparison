@@ -9,6 +9,12 @@ children ‘‘Okaasan to Issho’’ (NHK, Japan Broadcasting Corporation). Fou
 ### SL ViT (Top 5 heads; n=30)
 <div><video controls src="https://github.com/user-attachments/assets/fbed9c38-f73a-46b5-b3bc-0c5c722c428f" muted="false"></video></div>
 
+## Demo & Model Weights
+The model weights and demo can be downloaded from the following OSF link: <https://osf.io/c3snp/>
+
+The demo extracts features and attention maps corresponding to G1 (foreground center), G2 (entire foreground), and G3 (background) from images.
+For more details, please refer to the OSF page.
+
 ## Analysis codes
 ### Model definition of vision transformers
 Codes were modified from the repository of [DINO](https://github.com/facebookresearch/dino).
